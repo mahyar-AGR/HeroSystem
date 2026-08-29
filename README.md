@@ -1,11 +1,12 @@
 <div align="center">
 
-# 👨‍💻 Hi there, I'm Mahyar ! 👋
+# 👨‍💻 Hi there, I'm Mahyar Asgari! 👋
 
 ### **Super Admin & Full-Stack / Backend Engineer**
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Website](https://img.shields.io/badge/Website-Herosystem.ir-00ADB5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://herosystem.ir)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahyar.agr@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
 
 ---
 
@@ -55,19 +56,10 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=mahyar-AGR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mahyar's GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ymahyar-AGR&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahyar-AGR&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ymahyar-AGR&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahyar-AGR&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
-
----
-
-### 📬 Connect With Me
-
-<p align="center">
-  <a href="https://t.me/mmahyarasgari"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://herosystem.ir"><img src="https://img.shields.io/badge/Portfolio-HeroSystem-4E73DF?style=for-the-badge&logo=safari&logoColor=white" /></a>
-</p>
