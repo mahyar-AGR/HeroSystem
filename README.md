@@ -49,18 +49,5 @@
 
 </div>
 
----
 
-### 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats-fast.vercel.app/api?username=mahyar-AGR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mahyar's GitHub Stats" height="165" />
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mahyar-AGR&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahyar-AGR&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
 
