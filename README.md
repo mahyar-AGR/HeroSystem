@@ -69,6 +69,6 @@
 ### 📬 Connect With Me
 
 <p align="center">
-  <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://t.me/mmahyarasgari"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://herosystem.ir"><img src="https://img.shields.io/badge/Portfolio-HeroSystem-4E73DF?style=for-the-badge&logo=safari&logoColor=white" /></a>
 </p>
